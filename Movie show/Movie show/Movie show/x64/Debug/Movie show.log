@@ -1,0 +1,22 @@
+﻿  Movie show.cpp
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\movieData.h(4,7): error C2011: 'movieData': 'class' type redefinition
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\Movie show.cpp(14,9): error C2027: use of undefined type 'movieData'
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\Movie show.cpp(24,9): error C2027: use of undefined type 'movieData'
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\Movie show.cpp(35,9): error C2027: use of undefined type 'movieData'
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\Movie show.cpp(46,9): error C2027: use of undefined type 'movieData'
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\Movie show.cpp(70,25): error C2027: use of undefined type 'movieData'
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\Movie show.cpp(71,25): error C2027: use of undefined type 'movieData'
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\Movie show.cpp(72,25): error C2027: use of undefined type 'movieData'
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\Movie show.cpp(73,25): error C2027: use of undefined type 'movieData'
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\Movie show.cpp(74,25): error C2027: use of undefined type 'movieData'
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\Movie show.cpp(75,25): error C2027: use of undefined type 'movieData'
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\Movie show.cpp(76,25): error C2027: use of undefined type 'movieData'
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\Movie show.cpp(77,25): error C2027: use of undefined type 'movieData'
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\Movie show.cpp(78,25): error C2027: use of undefined type 'movieData'
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\Movie show.cpp(79,25): error C2027: use of undefined type 'movieData'
+  movie.cpp
+  movieData.cpp
+  Generating Code...
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\movie.cpp(49,1): warning C4172: returning address of local variable or temporary: result
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\movie.cpp(59,1): warning C4172: returning address of local variable or temporary: result
+D:\datastrcture.tahany\MyProjects\Movie show\Movie show\movie.cpp(39,1): warning C4172: returning address of local variable or temporary: result
