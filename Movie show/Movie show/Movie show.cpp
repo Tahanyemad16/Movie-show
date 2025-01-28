@@ -77,7 +77,7 @@ void PrintAllMovies(movie& m)
 void ShowMenu()
 {
     cout << "\t\t\t\t\t\t -------------------------------------------------------------\n"
-        << "\t\t\t\t\t\t|                      Contacts Book Menu                     |\n"
+        << "\t\t\t\t\t\t|                         Movie Menu                          |\n"
         << "\t\t\t\t\t\t -------------------------------------------------------------\n"
         << "\t\t\t\t\t\t| 1. Add a new Movie                                          |\n"
         << "\t\t\t\t\t\t| 2. Search by Title                                          |\n"
